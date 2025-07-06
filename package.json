@@ -1,0 +1,12 @@
+{
+  "name": "okru-bot-server",
+  "version": "2.1.0",
+  "description": "Server with panel for controlling OK.ru video bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
